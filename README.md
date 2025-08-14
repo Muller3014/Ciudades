@@ -1,11 +1,3 @@
-**Preparando el archivo README.md**
-
-El usuario me pide poner todo en markdown, y aunque la respuesta anterior ya era casi todo markdown, parece que quiere que sea una respuesta en formato README.md. Entonces, lo mejor es proporcionar directamente el contenido sin las envolturas de código. Sin los bloques de código envolventes, mantendré solo el contenido markdown, tal como un archivo típico README.md.
-
-
-Pensó durante 10 segundos
-
-
 # Gestor de Ciudades
 
 Una aplicación Java sencilla para gestionar un conjunto de ciudades, permitiendo:
